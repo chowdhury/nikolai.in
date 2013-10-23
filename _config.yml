@@ -1,0 +1,5 @@
+url: http://nikolai.in
+#markdown: rdiscount
+permalink: pretty
+pygments: true
+exclude: ['Rakefile.rb', 'CNAME', 'nikolai.in.sublime-project', 'nikolai.in.sublime-workspace', 'README.markdown']

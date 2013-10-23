@@ -1,0 +1,215 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"styl",
+				"list-style"
+			],
+			[
+				"arts",
+				"artsteaser"
+			],
+			[
+				"artsarticleGrid",
+				"artsarticleGridItem"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 167.0,
+		"selected_items":
+		[
+			[
+				"view ",
+				"View In Browser"
+			],
+			[
+				"view in",
+				"View In Browser"
+			],
+			[
+				"set syntax: htm",
+				"Set Syntax: HTML5"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"view",
+				"View In Browser"
+			],
+			[
+				"install pa",
+				"Package Control: Install Package"
+			],
+			[
+				"syntax html5",
+				"Set Syntax: HTML5"
+			],
+			[
+				"html5",
+				"Set Syntax: HTML5"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"view i",
+				"View In Browser"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: Discover Packages"
+			]
+		],
+		"width": 575.0
+	},
+	"console":
+	{
+		"height": 139.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/nikolaic/Dropbox/WebDev/nikolai.in/params.json",
+		"/Users/nikolaic/Dropbox/WebDev/nikolai.in/CNAME",
+		"/Users/nikolaic/Dropbox/WebDev/chowdhury.github.io/index.html",
+		"/Users/nikolaic/Dropbox/ColumbiaEMBA/SLEB/Oct15-Meeting-Agenda.md",
+		"/Users/nikolaic/Library/Application Support/Sublime Text 2/Packages/Emmet/Emmet.sublime-settings",
+		"/Users/nikolaic/Library/Application Support/Sublime Text 2/Packages/View In Browser/View In Browser.sublime-settings",
+		"/Users/nikolaic/Documents/iOS_Dev/GENWI/39693/css/thr_style.css",
+		"/Users/nikolaic/Documents/HTML5-GENWI/37728/js/bossip_arts_new.js"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"<img",
+			"video"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"<img width=\"140\""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 224.0,
+	"status_bar_visible": true
+}

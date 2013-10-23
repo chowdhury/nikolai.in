@@ -1,0 +1,3 @@
+Sitemap: http://nikolai.in/sitemap.xml
+User-agent: *
+Allow: /
