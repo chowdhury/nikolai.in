@@ -1,9 +1,10 @@
 body {
 	font-size:14pt;
+	margin-left:1.2em;
+	margin-right:1.2em;
 }
 
 .site {
-	font-size: 1em;
-	width: 100%;
+	width: 35em;
 	margin: 3em auto 2em auto;
 }
