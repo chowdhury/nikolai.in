@@ -16,7 +16,7 @@ I'm a mobile developer and solution architect from New York, NY. Living in Fanwo
 
 Apart from skiing, I enjoy being a concert classical pianist and collaborating with my family’s [music production company in India](http://www.morescape.com).
 
-My core has been `javascript`, `html`, `css`, `php`, and visual design, but since I've gone mobile, playing with `Objective-C` and building cross platform experiences `Phonegap` has been my bread and butter.
+My core has been `javascript`, `html`, `css`, `php`, and visual design, but since I've gone mobile, playing with `Objective-C` and building cross platform experiences with `Phonegap` has been my bread and butter.
 
 I love discovering new trends, diving deep into trying the next best thing, and building refined timeless experiences that don't make the user think.
 
