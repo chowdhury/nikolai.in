@@ -1,8 +1,4 @@
 ---
-published: false
----
-
----
 layout: post
 title: Building a blog with Jekyll
 published: true
