@@ -70,7 +70,7 @@ blockquote {
 /*****************************************************************************/
 
 .site {
-	font-size: 110%;
+	font-size: 1.5em;
 	text-align: justify;
 	width: 728px;
 	margin: 3em auto 2em auto;
@@ -82,7 +82,7 @@ h1, h2, h3, h4, h5, h6, .comments {
 }
 
 .title {
-	color: #cdcdcd;
+	color: #666;
 	font-weight: bold;
 	margin-bottom: 2em;
 }
