@@ -71,7 +71,7 @@ blockquote {
 
 .site {
 	font-size: 1.5em;
-	text-align: justify;
+	text-align: left;
 	width: 728px;
 	margin: 3em auto 2em auto;
 	line-height: 1.5em;
@@ -83,12 +83,12 @@ h1, h2, h3, h4, h5, h6, .comments {
 
 .title {
 	color: #666;
-	font-weight: bold;
 	margin-bottom: 2em;
 }
 
 .site .title a {
 	color: #369;
+	font-weight: bold;
 	text-decoration: none;
 }
 
