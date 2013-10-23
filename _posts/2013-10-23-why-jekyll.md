@@ -21,5 +21,3 @@ Why wouldn't you use Wordpress?
 ## Inspirations
 
 Why not?
-
-![Morescape Home](http://morescape.com/images/morescape_home.jpg)
