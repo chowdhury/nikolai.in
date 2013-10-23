@@ -2,6 +2,7 @@
 layout: post
 title: Building a blog with Jekyll
 published: true
+category: home
 ---
 
 Why wouldn't you use Wordpress?

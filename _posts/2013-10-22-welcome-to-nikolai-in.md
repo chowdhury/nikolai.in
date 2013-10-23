@@ -2,6 +2,7 @@
 layout: post
 title: "Welcome to nikolai.in, a long time in the making."
 published: true
+category: home
 ---
 
 I've had numerous failed attempts over the years to build out a personal blog of my musings in tech, business, and life in general but after evaluating most of your standard Wordpress, Drupal, Tumblr... approaches it always seemed to be overkill for a no-thrills personal blog. Here's where Jekyll comes into play.
