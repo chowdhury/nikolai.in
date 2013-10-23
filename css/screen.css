@@ -4,6 +4,8 @@
 /*
 /*****************************************************************************/
 
+@import url(http://fonts.googleapis.com/css?family=Droid+Sans:400,700);
+
 * {
 	margin: 0;
 	padding: 0;
@@ -15,7 +17,7 @@ html, body {
 
 body {
 	background-color: white;
-	font: 13.34px helvetica, arial, clean, sans-serif;
+	font: 13.34px font-family: 'Droid Sans', sans-serif;
 	*font-size: small;
 	text-align: center;
 }
