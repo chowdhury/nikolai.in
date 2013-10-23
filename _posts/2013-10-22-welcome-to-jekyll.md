@@ -1,9 +1,9 @@
 ---
 layout: post
-title: The Start of yet Another Blog
+title: Welcome to Jekyll, long time coming.
 ---
 
-Over the course of my career I've had quite a few blogs, however I have struggled to maintain writing content for each one. I still write blog posts for [-Storm ID-](http://blog.stormid.com) (I've left Storm ID. and now work for M&C Saatchi in Australia) but any personal blogs have now all disappeared from various hosting platforms.
+I've had numerous failed attempts over the years to build out a personal blog of my musings in tech, business, and life in general but after evaluating most of your standard Wordpress, Drupal, Tumblr... approaches it always seemed to be overkill for a no-thrills personal blog. Next comes Jekyll.
 
 The setup
 ---------
