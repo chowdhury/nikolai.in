@@ -148,6 +148,20 @@ ul.posts a {
 	text-align: left;
 }
 
+ul.labs {
+	list-style-type: none;
+	margin-bottom: 2em;
+}
+
+ul.labs li {
+	line-height: 1.75em;
+}
+
+ul.labs span {
+	color: #aaa;
+	font-size: 80%;
+}
+
 /*****************************************************************************/
 /*
 /* Posts
