@@ -116,6 +116,7 @@ h1, h2, h3, h4, h5, h6, .comments {
 .site .footer .contact a,
 .site .footer .rss a {
 	color: #8085C1;
+	text-decoration: none;
 }
 
 .site .footer .rss {
