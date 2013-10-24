@@ -37,8 +37,8 @@ h1, h2, h3 {
 /* Not required for template or sticky footer method. */
 
 #wrap > .container {
-  padding: 60px 15px 0;
-  width: 75%;
+  padding: 30px 15px 0;
+  width: 80%;
 }
 .container .credit {
   margin: 20px 0;
