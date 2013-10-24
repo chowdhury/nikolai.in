@@ -1,0 +1,156 @@
+/* Sticky footer styles
+-------------------------------------------------- */
+@import url(http://fonts.googleapis.com/css?family=Droid+Sans:400,700);
+
+html,
+body {
+  height: 100%;
+  font-family: 'Droid Sans', sans-serif !important;
+  color: #666 !important;
+  /* The html and body elements cannot have any padding or margin. */
+}
+
+h1, h2, h3 {
+  font-family: 'Droid Sans', sans-serif !important;
+}
+
+/* Wrapper for page content to push down footer */
+#wrap {
+  min-height: 100%;
+  height: auto !important;
+  height: 100%;
+  /* Negative indent footer by its height */
+  margin: 0 auto -60px;
+  /* Pad bottom by footer height */
+  padding: 0 0 60px;
+}
+
+/* Set the fixed height of the footer here */
+#footer {
+  height: 60px;
+  background-color: #f5f5f5;
+}
+
+
+/* Custom page CSS
+-------------------------------------------------- */
+/* Not required for template or sticky footer method. */
+
+#wrap > .container {
+  padding: 60px 15px 0;
+  width: 75%;
+}
+.container .credit {
+  margin: 20px 0;
+}
+
+#footer > .container {
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+.navbar-nav {
+  float: right;
+}
+
+.navbar-brand {
+  font-weight: bold;
+}
+.navbar-brand span {
+  font-color: #666 !important;
+  text-decoration: none;
+  font-size: 80%;
+  font-weight: normal;
+}
+
+code {
+  font-size: 80%;
+}
+
+.page-header a, .lead a { font-weight: bold;}
+
+.page-header h3{
+  line-height: 1.4em !important;
+}
+
+.page-header h1 { text-align: center;}
+
+.postcontent {
+  font-size: 20px;
+  line-height: 160%;
+  font-family: Palatino;
+  padding: 0;
+}
+
+.postcontent h2 {
+  font-size: 22px;
+  margin-bottom: 1.33em;
+  margin-top: 1.33em;
+}
+
+a {
+  color: #369 !important;
+}
+
+a:hover {
+  color: #000 !important;
+  text-decoration: none !important;
+}
+
+ul.posts, ul.labs {
+  list-style-type: none;
+  margin-bottom: 1.4em;
+  padding: 0;
+  font-size: 16px;
+}
+
+@media (min-width: 768px) {
+
+  ul.posts, ul.labs {
+    font-size: 21px;
+  }
+
+}
+
+@media (max-width: 480px) { 
+
+  ul.posts span.seperator {
+    display:none;
+  }
+
+  ul.posts a {
+    display:block;
+  }
+
+  .page-header {
+    text-align: center;
+  }
+
+  .navbar-nav {
+    float: left;
+  }
+
+}
+
+
+ul.posts span, ul.labs span {
+  color: #aaa;
+  font-size: 80%;
+}
+
+.home h3 {
+  font-weight: bold;
+  color: #000;
+}
+
+#post h3 {
+  font-weight: bold;
+  margin-top: 35px;
+  font-size: 28px;
+}
+
+#post p.meta {
+  margin-bottom: 25px;
+  color: #aaa;
+  font-size: 90%;
+}

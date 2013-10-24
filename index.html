@@ -1,19 +1,30 @@
 ---
-layout: default
+layout: defaultfresh
 title: Nikolai Chowdhury
 ---
 
-<div class="title">I craft solutions and strategies for some of the world's finest companies. <a href="http://gsb.columbia.edu/">Columbia Business School</a> MBA student and proud <a href="http://fordham.edu/fclc">Fordham College at Lincoln Center</a> Alum. This is a place for my thoughts on music, tech, business, and life in general.</div>
+<style>
+.subtitle {display: none; visibility: hidden;}
+</style>
+
+        <div class="page-header">
+            <h3><a href="/">Nikolai Chowdhury</a>, mobile evangelist and solutions architect.</h3>
+       	</div>
+
+<p class="lead">I craft solutions and strategies for some of the world's finest companies. A <a href="http://gsb.columbia.edu/">Columbia Business School</a> MBA student and proud <a href="http://fordham.edu/fclc">Fordham College at Lincoln Center</a> alum. This is a place for my thoughts on music, tech, business, and life in general.<br/>
+</p>
+
+
 
 <div class="home">
-	<h1>Projects</h1>
+	<h3>Projects</h3>
 	<ul class="labs">
 		<li>Visit <a href="http://labs.nikolai.in">the labs</a> for what I'm currently working on.</li>
 	</ul>
 </div>
 
 <div class="home">
-	<h1>Blog Posts</h1>
+	<h3>Blog Posts</h3>
 	<ul class="posts">
 		{% for post in site.categories.home %}
 		<li><span>{{ post.date | date_to_string }}</span> <span class="seperator">:</span> <a href="{{ post.url }}">{{ post.title }}</a></li>
