@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Building a blog with Jekyll
-published: true
+published: false
 category: home
 ---
 
