@@ -37,6 +37,13 @@ mixpanel.init("265b16eded10a43a0fa14f9a0a8301db");</script><!-- end Mixpanel -->
     </head>
     <body>
 
+<script>
+$( document ).ready(function() {
+    console.log( "ready!" );
+    mixpanel.track("nikolai.in homepage load");
+});
+</script>
+
       <!-- Wrap all page content here -->
       <div id="wrap">
 
