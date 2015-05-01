@@ -37,7 +37,7 @@ Going forward with the feedback that I receieved on my presentation, the most im
 
 ## Action Plan
 
-### Goals
+#### Goals
 The three key areas I identified above: Preparation, Adapting to the Audience with Clarity of Intent, and Visual & Non-Verbal Queues also translate into my goals going forward to focus on refining my style and efforts around captivating an audience.
 
 #### Practice Opportunities
