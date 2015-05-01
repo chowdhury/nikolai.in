@@ -52,18 +52,21 @@ Overall the Leader's Voice was a extremely valuable class. I for one would love 
 As a takeaway, I'd like to propose a 3 bucket focus approach for anyone to benefit from the material covered in the class. Anyone who would like to become a better communicator should focus on the following three areas:
 
 **Preparing to Captivate an Audience:**
+
 - Storytelling
 - Synthesis
 - Influencing
 - Non-Verbals
 
 **Tactics and Putting Into Practice**
+
 - Public Speaking
 - Managing Teams
 - Managing Time & Projects
 - Communicating Through Other Channels
 
 **Creating your own Personal Brand**
+
 - Innovation & Creativity
 - Business Improv
 - Building Relationships
