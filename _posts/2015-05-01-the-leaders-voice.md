@@ -46,7 +46,7 @@ I have already started putting these practices into play at work during numerous
 #### Environment changes
 Lastly, I believe the key is for me to start taking additional opportunites to have in-person presentations (rather than a primarly webinar focused schedule). 
 
-### Key Class Takeaways
+## Key Class Takeaways
 Overall the Leader's Voice was a extremely valuable class. I for one would love to see if there is a way to create a digital training experience that helps tackle the topics and practice in a different setting (MOOC maybe?). 
 
 As a takeaway, I'd like to propose a 3 bucket focus approach for anyone to benefit from the material covered in the class. Anyone who would like to become a better communicator should focus on the following three areas:
