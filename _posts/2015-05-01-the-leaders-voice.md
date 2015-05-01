@@ -20,19 +20,47 @@ As part of the final project and setup for putting the learnings into action we 
 As a mobile engineer and solution architect, a large portion of my day-to-day centers around talking to customers, developers, and the tech community on a multitue of varied topics. On one day day I do deep dives on platform architecture and systems integration, on another day I might be talking about industry trends, and then shift to talking about a particular project or presenting conceptual product vision. That being said, I have always been told that my style was solid and never really thought I needed to work on too much. After going through some exercises in class and in the small group settings, I found there was so much that could be done to refine my style and improve the clarity and impact of my presentations. There were 3 key areas which I chose to actively monitor and focus on when applying the in class learning to my day-to-day and for my talk: 
 
 - **Preparation**: I ahve always been one to prep slides and then jump right into a talk, but this sometimes can backfire on having a preconceived flow & approach and sense of timing or familiarity with the talking points without actually rehearsing.
-- **Adapting to the Audience**: Rather than focusing only on content (content IS key) and the goals of the talk, need to instead focus on what the receiving end is getting out of it.
+- **Adapting to the Audience with Clarity of Intent**: Rather than focusing only on content (content IS key) and the goals of the talk, need to instead focus on what the receiving end is getting out of it.
 - **Visual & Non-Verbal Queues**: Alot of my presentations have been webinars or remote, so there are alot of visual cues and mannerisms that are not necessarily apparent.
 
-### During
+### My Talk
+That talk I gave, happened to be something that was very close and personal to me, my CBS Matters presentation to my fellow EMBA peers. To give some context, [CBS Matters](https://www.youtube.com/watch?v=-826mEdXyCY) is a farily casual, yet organized forum for members of the busines school community to share what they’re passionate about and where they want their careers to go -- 15 minutes of fame in front of your peers so to speak. I've heard some fantastics stories from many in my class and wanted to have the opportunity to present my own story before leaving. For my presentation I focused less on myself and background but more on two areas that are very important to me, music and family and the intersection of both. My grandfather, [Salil Chowdhury](http://en.wikipedia.org/wiki/Salil_Chowdhury) (whom I reference quite a bit) was a film composer in Bollywood and I talked through some of the experiences that I had learning from him, and also extending his legacy into the future for subsquent generations to appreciate. At some point I'll put up the slides but for now; here's the long form of a video that I showed developed by the Salil Chowdhury Foundation of music.
 
+The key part of my preparation centered around understanding my audience and putting forth areas of my life and background that people maybe did not know too well about me. Since I've had 2 years getting to know my classmates I have had many opportunities at happy hours, social events, and internationl trips to share some great stories, but I wanted to switch things up and talk a bit about something that nobody had ever heard before (for the most part). 
 
-### After
+My internal assessment was that it went overall very solidly, through I felt like my timing and pace was a bit hurried. The audience reaction was generally great with a good reponse to most of the stories and things that I said (which is always a welcome thing!). After watching the video of the presentation I found that it seemed as if I was much more mindful of my stage presence and visual image up in the room. I did notice I tended to stick in a particular position and not move too far beyond the podium, which calls for some improvement. 
 
-### Feedback
+Going forward with the feedback that I receieved on my presentation, the most important elements for me will be to be mindful of how I present myself in the front of the room, in addition to ensuring the correct pace and clarify of voice in any presentation that I do. Over the next 2 years I only see myself doing more and more talks in front of larger and more high pressure scenarios.
 
 ### Action Plan
-#### Goals
-#### Practice Opportunities
-#### How to get feedback
-#### Environment changes
 
+#### Goals
+The three key areas I identified above: Preparation, Adapting to the Audience with Clarity of Intent, and Visual & Non-Verbal Queues also translate into my goals going forward to focus on refining my style and efforts around captivating an audience.
+
+#### Practice Opportunities
+I have already started putting these practices into play at work during numerous sales pitches. In particular, I am currently in the process of developing a 1 hour webinar for July talking about Architectural Excellence in Mobility, addressing a series of different solutions for powering the logic and backend of mobile applications. As part of the efforts I will be attempting to tackle the tactical implementation of these goals. There will be a survey and post-webinar feedback session that will address much of the aspects that will be extremely helpful going forward.
+
+#### Environment changes
+Lastly, I believe the key is for me to start taking additional opportunites to have in-person presentations (rather than a primarly webinar focused schedule). 
+
+### Key Class Takeaways
+Overall the Leader's Voice was a extremely valuable class. I for one would love to see if there is a way to create a digital training experience that helps tackle the topics and practice in a different setting (MOOC maybe?). 
+
+As a takeaway, I'd like to propose a 3 bucket focus approach for anyone to benefit from the material covered in the class. Anyone who would like to become a better communicator should focus on the following three areas:
+
+**Preparing to Captivate an Audience:**
+- Storytelling
+- Synthesis
+- Influencing
+- Non-Verbals
+
+**Tactics and Putting Into Practice**
+- Public Speaking
+- Managing Teams
+- Managing Time & Projects
+- Communicating Through Other Channels
+
+**Creating your own Personal Brand**
+- Innovation & Creativity
+- Business Improv
+- Building Relationships
