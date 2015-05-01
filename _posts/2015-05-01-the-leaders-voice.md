@@ -1,8 +1,4 @@
 ---
-published: true
----
-
----
 layout: post
 title: "The Columbia EMBA Experience: the Leader's Voice"
 published: true
