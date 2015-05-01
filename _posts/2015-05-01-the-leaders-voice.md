@@ -2,6 +2,13 @@
 published: true
 ---
 
+---
+layout: post
+title: "The Columbia EMBA Experience: the Leader's Voice"
+published: true
+category: home
+---
+
 ## The Columbia EMBA Experience
 
 As I'm wrapping up the last few weeks of the Executive MBA Program at [Columbia Business School](http://gsb.columbia.edu/), I've been thinking alot about my experience, the great classes, professors, lifelong connections and friends that have been made during the journey. During the past 2 years, me and my classmates have had a crashcourse in time management, prioritization, and the jump back into academics -- and naturally one of the first things to go was the publication of my personal blog. 
