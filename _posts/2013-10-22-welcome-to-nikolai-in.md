@@ -13,11 +13,11 @@ I've been a fan of building out and hosting my own boxes on AWS (had my share of
 
 About Me
 --------
-I'm a mobile developer and solution architect from New York, NY. I live in Fanwood, NJ, and serve on our local [environmental commission](http://fanwoodec.org). I've been "working" for more than eleven years in technology, but have been tinkering much longer than that. 
+I'm a mobile developer and solution architect from New York, NY. I've been "working" for more than eleven years in technology, but have been tinkering much longer than that. 
 
 I've developed and implemented numerous innovative and groundbreaking interactive experiences at [Genwi](http://genwi.com), cloud publshing for mobile, [Women’s Wear Daily](http://wwd.com), a division of Condé Nast Publications, and [Colin Cowie Enterprises](http://colincowieweddings.com), a lifestyle digital media company--in addition to working with the likes of Time Warner Center, Times Music India and Fordham University through my own technical consulting and strategy agency. 
 
-Apart from skiing in the winters in Saint-Sauveur-des-monts, QC, I enjoy being a concert classical pianist and collaborating with my family’s [music production company in India](http://www.morescape.com).
+Apart from skiing in the winters in Saint-Sauveur-des-monts, QC, I enjoy being a concert classical pianist and collaborating with my family’s [music production company in India](http://www.morescape.com). I also serve on my NJ town's local [environmental commission](http://fanwoodec.org).
 
 My core has been `javascript`, `html`, `css`, `php`, and visual design, but since I've expanded and gone the mobile route, playing with `Objective-C` and building cross platform experiences with `Phonegap` and other frameworks.
 
