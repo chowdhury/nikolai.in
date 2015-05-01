@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 
 ## The Columbia EMBA Experience
