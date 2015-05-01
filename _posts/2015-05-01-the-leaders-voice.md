@@ -19,9 +19,9 @@ As part of the final project and setup for putting the learnings into action we 
 ### Before
 As a mobile engineer and solution architect, a large portion of my day-to-day centers around talking to customers, developers, and the tech community on a multitue of varied topics. On one day day I do deep dives on platform architecture and systems integration, on another day I might be talking about industry trends, and then shift to talking about a particular project or presenting conceptual product vision. That being said, I have always been told that my style was solid and never really thought I needed to work on too much. After going through some exercises in class and in the small group settings, I found there was so much that could be done to refine my style and improve the clarity and impact of my presentations. There were 3 key areas which I chose to actively monitor and focus on when applying the in class learning to my day-to-day and for my talk: 
 
-- Preparation
-- Adapting to the Audience
-- Visual & Non-Verbal Queues
+- **Preparation**: I ahve always been one to prep slides and then jump right into a talk, but this sometimes can backfire on having a preconceived flow & approach and sense of timing or familiarity with the talking points without actually rehearsing.
+- **Adapting to the Audience**: Rather than focusing only on content (content IS key) and the goals of the talk, need to instead focus on what the receiving end is getting out of it.
+- **Visual & Non-Verbal Queues**: Alot of my presentations have been webinars or remote, so there are alot of visual cues and mannerisms that are not necessarily apparent.
 
 ### During
 
