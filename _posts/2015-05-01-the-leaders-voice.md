@@ -5,11 +5,12 @@ published: true
 category: home
 ---
 
+
 ## The Columbia EMBA Experience
 
-As I'm wrapping up the last few weeks of the Executive MBA Program at [Columbia Business School](http://gsb.columbia.edu/), I've been thinking alot about my experience, the great classes, professors, lifelong connections and friends that have been made during the journey. During the past 2 years, me and my classmates have had a crashcourse in time management, prioritization, and the jump back into academics -- and naturally one of the first things to go was the publication of my personal blog. 
+As I'm wrapping up the last few weeks of the Executive MBA Program at [Columbia Business School](http://gsb.columbia.edu/), I've been thinking alot about my experience, the great classes, professors, lifelong connections and friends that have been made during the journey. During the past 2 years, my classmates and I have had a crashcourse in time management, prioritization, and the jump back into academics -- and naturally one of the first things to go was the focus on my personal blog. 
 
-This piece will be the first in a series of retrospectives on the b-school experience, takeaways and lessons learned. I hope it provides some context of what I've ben up to for the last two years, but also proves as a resource for prospective students who come across it.
+This piece will be the first in a series of retrospective thoughts on the b-school experience, takeaways and lessons learned. I hope it provides some context of what I've ben up to for the last two years, but also proves as a resource for prospective students who come across it.
 
 ## The Leader's Voice: Communicating To Lead Organizations
 
@@ -31,32 +32,17 @@ That talk I gave, happened to be something that was very close and personal to m
 
 The key part of my preparation centered around understanding my audience and putting forth areas of my life and background that people maybe did not know too well about me. Since I've had 2 years getting to know my classmates I have had many opportunities at happy hours, social events, and internationl trips to share some great stories, but I wanted to switch things up and talk a bit about something that nobody had ever heard before (for the most part). 
 
-My internal assessment was that it went overall very solidly, through I felt like my timing and pace was a bit hurried. The audience reaction was generally great with a good reponse to most of the stories and things that I said (which is always a welcome thing!). After watching the video of the presentation I found that it seemed as if I was much more mindful of my stage presence and visual image up in the room. I did notice I tended to stick in a particular position and not move too far beyond the podium, which calls for some improvement. 
-
-Going forward with the feedback that I receieved on my presentation, the most important elements for me will be to be mindful of how I present myself in the front of the room, in addition to ensuring the correct pace and clarify of voice in any presentation that I do. Over the next 2 years I only see myself doing more and more talks in front of larger and more high pressure scenarios.
-
-## Action Plan
-
-#### Goals
-The three key areas I identified above: Preparation, Adapting to the Audience with Clarity of Intent, and Visual & Non-Verbal Queues also translate into my goals going forward to focus on refining my style and efforts around captivating an audience.
-
-#### Practice Opportunities
-I have already started putting these practices into play at work during numerous sales pitches. In particular, I am currently in the process of developing a 1 hour webinar for July talking about Architectural Excellence in Mobility, addressing a series of different solutions for powering the logic and backend of mobile applications. As part of the efforts I will be attempting to tackle the tactical implementation of these goals. There will be a survey and post-webinar feedback session that will address much of the aspects that will be extremely helpful going forward.
-
-#### Environment changes
-Lastly, I believe the key is for me to start taking additional opportunites to have in-person presentations (rather than a primarly webinar focused schedule). 
-
-## Key Class Takeaways
+## Key Takeaways
 Overall the Leader's Voice was a extremely valuable class. I for one would love to see if there is a way to create a digital training experience that helps tackle the topics and practice in a different setting (MOOC maybe?). 
 
-As a takeaway, I'd like to propose a 3 bucket focus approach for anyone to benefit from the material covered in the class. Anyone who would like to become a better communicator should focus on the following three areas:
+As a takeaway, I'd like to propose a 3 bucket approach for anyone to benefit from the material covered in the class. Anyone who would like to become a better communicator should focus on the following three areas as a curriculum:
 
 **Preparing to Captivate an Audience:**
 
 - Storytelling
 - Synthesis
 - Influencing
-- Non-Verbals
+- Non-Verbals Cues
 
 **Tactics and Putting Into Practice**
 
