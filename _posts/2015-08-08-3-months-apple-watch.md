@@ -13,7 +13,7 @@ Now that I’ve had the Apple Watch strapped to my wrist for 90+ days, I thought
 
 Let’s not mince words - [current smart watch screens are *really small*](https://medium.com/@flyosity/inconvenient-truths-about-the-apple-watch-11bafa44551b). From what I’ve experienced so far, apps (or app functions) that are driven primarily by gestures and swipes are where the Apple Watch really shines. For apps with a heavier navigational element (e.g. phone calls), I tend to just cut to the chase and pull out my phone to get the job done faster. 
 
-![uber maps](https://github.com/chowdhury/nikolai.in/blob/gh-pages/images/watchdirections.JPG?raw=true)
+<img src="https://github.com/chowdhury/nikolai.in/blob/gh-pages/images/watchdirections.JPG?raw=true" height="400" width="300")>
 
 Aside from the difference in form factor that make certain apps impractical for direct porting to the Apple Watch, it also requires an iPhone 5 or later to perform its most important functions – that is, until the native SDK that’s part of watchOS 2 becomes available. For example, 3rd party fitness apps that rely on the Apple Watch’s sensors for data collection have to push that sensor data directly into a paired iPhone for the data to be usable. [Apple CEO Tim Cook recently conceded to Fast Company](http://www.fastcompany.com/3042435/steves-legacy-tim-looks-ahead) that the need for that pairing “creates a ceiling” for the device that will certainly limit sales. You can bet Apple is doing everything in their power to address that issue in the upcoming rollout of the native Apple Watch SDK. 
 
@@ -29,7 +29,7 @@ And I’m not alone in this sentiment. [In an online survey conducted by Battery
 
 ## Should I use this to replace my wearable health & fitness devices?
 
-![watchhealth](https://github.com/chowdhury/nikolai.in/blob/gh-pages/images/watchhealth.jpg?raw=true)
+<img src="https://github.com/chowdhury/nikolai.in/blob/gh-pages/images/watchhealth.jpg?raw=true" height="400" width="300">
 
 From the same Battery Ventures study, the number one feature for Apple Watch users in terms of time spent was fitness tracking (72%). For me, tracking my health & fitness data and activities with my Apple Watch is “the” killer app.  For wearable category leaders like FitBit and Jawbone, the advent of the Apple Watch and similar devices may be just a plain old killer. Some pundits agree, and are predicting that [Apple Watch and other smart watches will cut into the single purpose fitness/activity tracker market](http://www.cnbc.com/2015/05/08/will-fitbit-flop-as-smartwatches-takeover.html), reducing its current size by up to 75% by the year 2020.
 
