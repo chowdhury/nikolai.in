@@ -25,7 +25,7 @@ Mobile-payment systems have been slow to catch on so far. However, with the like
 
 Where the Apple Watch really shines is with contextually relevant notifications. For example, it’s great to know when I have important emails or texts coming in without having to pull out my phone constantly. It’s much more natural to take a peek at my watch now and again. 
 
-<img src="https://github.com/chowdhury/nikolai.in/blob/gh-pages/images/nc_watch_spg.png" alt="Showing my hotel information" height="300" width="420">
+<img src="https://github.com/chowdhury/nikolai.in/blob/gh-pages/images/nc_watch_spg.png?raw=true" alt="Showing my hotel information" height="300" width="420">
 
 And I’m not alone in this sentiment. [In an online survey conducted by Battery Ventures](http://www.econtentmag.com/Articles/News/News-Feature/This-is-How-People-Are-Really-Using-the-Apple-Watch-104642.htm), 109 early adopters of the Apple Watch were asked to discuss their usage of the device. 2 of the 3 top use cases - in terms of time spent on device - were checking email (72%) and text messaging (62%).
 
