@@ -5,14 +5,6 @@ published: true
 category: home
 ---
 
-It’s been about 3 months since Apple launched their first new device without Steve Jobs at the helm: the Apple Watch. Pre-orders went live on April 10th at 3am New York time and I didn’t want to miss the chance to get one of the first shipments. But there was a problem: I was already headed to London at that time. While I love Richard Branson, I wouldn’t jeopardize my odds at getting the watch by relying on transatlantic wifi. Luckily, I have a very understanding girlfriend. While flying to London Business School to take a class and complete my Columbia EMBA, she woke up in the middle of the night to secure me an Apple Watch in the first round of preorders. I’m a lucky guy.
- 
-Now that I’ve had the Apple Watch strapped to my wrist for 90+ days, I thought it was about time to answer the most common questions that come up when I talk with friends and colleagues who aren’t quite sure what to make of this new wearable.
- 
-## Is it an iPhone replacement?
-
-Let’s not mince words - [current smart watch screens are *really small*](https://medium.com/@flyosity/inconvenient-truths-about-the-apple-watch-11bafa44551b). From what I’ve experienced so far, apps (or app functions) that are driven primarily by gestures and swipes are where the Apple Watch really shines. For apps with a heavier navigational element (e.g. phone calls), I tend to just cut to the chase and pull out my phone to get the job done faster. 
-
 Crafting a developer toolkit is essential for managing globally distributed teams. 
 
 With the right toolkit, you can effectively manage a remote group from anywhere, and at whatever time is convenient for you. The new way of working knows no geographical boundaries, either within your company or with its partners around the world. 
