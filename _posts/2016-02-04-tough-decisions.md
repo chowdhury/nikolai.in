@@ -1,3 +1,9 @@
+---
+layout: post
+title: "10 Steps to Follow When Making a Tough Decision"
+published: true
+category: home
+---
 ![alt text](http://i.kinja-img.com/gawker-media/image/upload/t_original/pvasbjn3cofaac6vrhhh.jpg "Railroad")
 
 *Photo by flickr user marfis75*
