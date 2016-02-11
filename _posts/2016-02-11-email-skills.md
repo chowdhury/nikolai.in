@@ -5,7 +5,7 @@ published: true
 category: home
 ---
 
-![alt text](http://cdn-media-2.lifehack.org/wp-content/files/2016/01/07125127/picjumbo.com_HNCK8984.jpg "No attribution required")
+![alt text](http://cdn-media-2.lifehack.org/wp-content/files/2016/01/07125127/picjumbo.com_HNCK8984.jpg "No attribution required" =600x400)
 
 # Stop Struggling With Email: Sharpening Your Inbox Skills
 
