@@ -5,7 +5,7 @@ published: true
 category: home
 ---
 
-![alt text](https://cbi-blog.s3.amazonaws.com/blog/wp-content/uploads/2015/11/Unbundling-banking-image-v2.png "Courtesy of CB Insights")
+<img src="https://cbi-blog.s3.amazonaws.com/blog/wp-content/uploads/2015/11/Unbundling-banking-image-v2.png" width="448" height="355">
 
 # Battle of the Banks: How FinTech is Disrupting the Financial Industry
 
@@ -26,7 +26,7 @@ I’m a fan of convenience. I’ve been using Starbuck’s mobile ordering offer
 
 This experience will become commonplace, and a solid companion to delivery services like [Postmates](http://www.huffingtonpost.com/2013/05/30/postmates-delivery-new-york_n_3359574.html) and [Caviar](http://ny.eater.com/2014/2/10/6282591/inside-caviar-a-new-premium-food-delivery-service). What makes all this work are the innovations in payment services. [In a recent study at EY](http://www.ey.com/GL/en/Industries/Financial-Services/ey-fintech-adoption-index), “the way we pay for goods and services, transfer money between accounts and send it overseas” are the most common and quickly adopted uses of FinTech services.
 
-![alt text](http://www.ey.com/Media/vwLUExtFile/ey-fintech-adoption-index-assets/$FILE/ey-most-used-fintech-services.jpg "Courtesy of ET FinTech Adoption Index 2015")
+<img src="http://www.ey.com/Media/vwLUExtFile/ey-fintech-adoption-index-assets/$FILE/ey-most-used-fintech-services.jpg" width="607" height="355">
 
 At the rate business is done these days, merchants no longer afford to have customers stand in line at the cash register (and we don’t have the time either). If businesses plan to stay afloat, they will have to recognize the benefits of mobile payment services – more correct orders, lower need for POS staffing, and higher order values with heightened awareness of product offerings. And as businesses increasingly follow this trend, we’ll less likely find ourselves waiting in line for the ATM in 2016.
 
