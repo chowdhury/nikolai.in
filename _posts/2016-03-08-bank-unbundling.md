@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Battle of the Banks: How FinTech is Disrupting the Financial Industry
+title: "Battle of the Banks: How FinTech is Disrupting the Financial Industry"
 published: true
 category: home
 ---
